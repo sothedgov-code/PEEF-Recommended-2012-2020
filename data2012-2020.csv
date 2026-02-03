@@ -545,8 +545,8 @@ S. No.,Name,Gender,Father Name,Address,Region,Year
 14,Samiullah,Male,Gul Hawas,Maila Madra Khel Muhallah Allah Dad Khel Lakki Marwat,KPK (HSSC),2015
 15,Muhammad Salman,Male,Muhammad Hanif,Mohallah Masti Khel Panyala Pahar Pur DI Khan,KPK (HSSC),2015
 16,Izhar Ullah,Male,Hasan Sher,Palosai Magharzai Kandi Bala Peshawar,KPK (HSSC),2015
-17,Shaista Ali,Female,Ali Jan (Late),Mohallah Bhosa Khel Village & Post Office     Prang  District Charsadda,KPK (HSSC),2015
-18,Alveera Bashir,Female,Bashir Ahmad,Muhallah Salar Pori Madni Street  DI Khan,KPK (HSSC),2015
+17,Shaista Ali,Female,Ali Jan (Late),Mohallah Bhosa Khel Village & Post Office Prang  District Charsadda,KPK (HSSC),2015
+18,Alveera Bashir,Female,Bashir Ahmad,Muhallah Salar Pori Madni Street DI Khan,KPK (HSSC),2015
 19,Babra Nawaz,Female,Haq Nawaz,Tehsil Parowa DI Khan,KPK (HSSC),2015
 20,Bakhtawar Bibi,Female,Sher Zaman,Haroon Abad Tehsil Kulachi DI Khan,KPK (HSSC),2015
 21,Anam Rahman,Female,Zabar Din,Al Imran Manzal Madina colony DI Khan,KPK (HSSC),2015
@@ -556,9 +556,9 @@ S. No.,Name,Gender,Father Name,Address,Region,Year
 25,Nida Gul,Female,Mehmood Javed,Mohallah Sher payan old bazar Charsadda,KPK (HSSC),2015
 26,Anam Khan,Female,Mumtaz Khan,Mohallah Rahim Abad Village Badrashi Nowshera,KPK (HSSC),2015
 27,Faiza Bibi,Female,Mujeeb Hussain,Mohallah Janab Khel Kotli Khord District Nowshera,KPK (HSSC),2015
-28,Ghazala Ali,Female,Muhammad Ali,Village Pake Post Office   Ghawar Kali Darghai Malakand,KPK (HSSC),2015
+28,Ghazala Ali,Female,Muhammad Ali,Village Pake Post Office Ghawar Kali Darghai Malakand,KPK (HSSC),2015
 29,Hifsa,Female,Inayatullah,Azeem Khan Kali Sakha Kot Malakand Agency,KPK (HSSC),2015
-30,Naima Rakheel,Female,Muhammad Yaqoob Khan,POST OFFICE    Saeed Abad DI Khan,KPK (HSSC),2015
+30,Naima Rakheel,Female,Muhammad Yaqoob Khan,Post Office Saeed Abad DI Khan,KPK (HSSC),2015
 31,Irum Jan,Female,Ghulam Jan Awan,Ibrahim Zai Kulachi DI Khan,KPK (HSSC),2015
 32,Aiman Gul,Female,Zahoor Khan,Mohallah Khadar Khel Kulachi DI Khan,KPK (HSSC),2015
 33,Mursaleen Khan,Male,Gul zameen,Village Saddre District Sawabi,KPK (Matric),2015
@@ -587,8 +587,8 @@ S. No.,Name,Gender,Father Name,Address,Region,Year
 56,Adnan Khan,Male,Mehar Dad Khan,Village Ghore Wala Bannu,KPK (Matric),2015
 57,Rahman Ullah Khan,Male,Meer Ali Subhan,Village Zalim Mandan Bannu,KPK (Matric),2015
 58,Farmanullah,Male,Dilawar Khan,Village Barh Harian Kot Malakand Agency,KPK (Matric),2015
-59,Najeebullah,Male,Masti Khan,Mohallah Sheri Khel Post Office  Aba Khel Lakki Marwat,KPK (Matric),2015
-60,Waheedullah,Male,Muhammad Khan,Village Baist Khel Post Office  Sarai Gambeela Lakki Marwat,KPK (Matric),2015
+59,Najeebullah,Male,Masti Khan,Mohallah Sheri Khel Post Office Aba Khel Lakki Marwat,KPK (Matric),2015
+60,Waheedullah,Male,Muhammad Khan,Village Baist Khel Post Office Sarai Gambeela Lakki Marwat,KPK (Matric),2015
 61,Faiza,Female,Muhammad Shah Faisal,Mohallah Meer Afzal Khan  District Mardan,KPK (Matric),2015
 62,Rahmeena Urooj,Female,Muhammad Ramzan Khan (late),Muhallah Dana Zai Kulachi DI Khan,KPK (Matric),2015
 63,Tahreem Atika,Female,Sulatan Mehmood Arif,Shah Alam Abad DI Khan,KPK (Matric),2015
@@ -618,24 +618,24 @@ S. No.,Name,Gender,Father Name,Address,Region,Year
 7,Muhammad Jawad,Male,Bahramand Khan,Tehsil Gagra District Buner,KPK (Matric),2014
 8,Muhammad Usman,Male,Abdul Wahid,Dagai Tehsil Zra District Sawabi,KPK (Matric),2014
 9,Wajid Ali,Male,Muhammad Ayaz,Muhallah Ali Khel Village Kharki Post Office  Kharki District Charsadda,KPK (Matric),2014
-10,Abdullah,Male,Sanaullah Khan,POST OFFICE    & Village Langar Khel Lakki Marwat,KPK (Matric),2014
-11,Umair Khan,Male,Taslim Khan,POST OFFICE    & village GulBela Tehsil &B District Peshawar,KPK (Matric),2014
+10,Abdullah,Male,Sanaullah Khan,Post Office & Village Langar Khel Lakki Marwat,KPK (Matric),2014
+11,Umair Khan,Male,Taslim Khan,Post Office & village GulBela Tehsil &B District Peshawar,KPK (Matric),2014
 12,Iftikhar Ahmad,Male,Rahmanullah,Tehsil Wari Dir (Upper),KPK (Matric),2014
 13,Muhammad Uman,Male,Abdul Sattar,Dabgari Muhallah Waderayan Peshawar,KPK (Matric),2014
 14,Salman,Male,Jehan zeb,Haji Abdur Rahman Kali Takhtbhai Mardan,KPK (Matric),2014
-15,Wasimullah,Male,Farooq uz Zaman,POST OFFICE    & village Sareekh Muhallah Landake shabqadar charsadda,KPK (Matric),2014
+15,Wasimullah,Male,Farooq uz Zaman,Post Office & village Sareekh Muhallah Landake shabqadar charsadda,KPK (Matric),2014
 16,Muhammad Jan,Male,Abdur Rasheed,Takhtabad Awal Form Kande Peshawar,KPK (Matric),2014
-17,Shah Khalid,Male,Shah Zameen,Village & Post Office    Behar Tehsil kalkot District Dir (Upper),KPK (Matric),2014
-18,Gul Alam,Male,Jan Alam,Tehsil & District Manga Salim Khan Kali  Mardan,KPK (Matric),2014
-19,Nihad Ali,Male,Khalid Khan,Village & Post Office    Afzal Abad Tehsil Takhtbai district Mardan,KPK (Matric),2014
-20,Mohzam Khan,Male,Jahangeer Khan,Kot Najeebullah  Haripur,KPK (Matric),2014
+17,Shah Khalid,Male,Shah Zameen,Village & Post Office Behar Tehsil kalkot District Dir (Upper),KPK (Matric),2014
+18,Gul Alam,Male,Jan Alam,Tehsil & District Manga Salim Khan Kali Mardan,KPK (Matric),2014
+19,Nihad Ali,Male,Khalid Khan,Village & Post Office Afzal Abad Tehsil Takhtbai district Mardan,KPK (Matric),2014
+20,Mohzam Khan,Male,Jahangeer Khan,Kot Najeeb Ullah Haripur,KPK (Matric),2014
 1,Shantul,Female,Ghulam Rasool,Mohallah Babra Tehsil & District Charsadda,KPK (Matric),2014
 2,Maria,Female,Fida Muhammad,Daga Hasan Khan near police station Bhana Mari Peshawar,KPK (Matric),2014
 3,Anila Asmat,Female,Asmatullah,Gulshan Rahman Colony Peshawar,KPK (Matric),2014
 4,Sanam Bashir,Female,Bashir ur din,Gul Abad No 2 Nothia Jadid Peshawra,KPK (Matric),2014
 5,Kalssom Bibi,Female,Muhammad Israr,Abdara District Peshawra,KPK (Matric),2014
-6,Sheema Shams,Female,Shamsul Qamar,Village & Post Office    Bagra Tehsil t Dagar District Buner,KPK (Matric),2014
-7,Abida Parveen,Female,Khan Gul,Village & Post Office    Sabir Abad Tehsil & district Karak,KPK (Matric),2014
+6,Sheema Shams,Female,Shamsul Qamar,Village & Post Office Bagra Tehsil t Dagar District Buner,KPK (Matric),2014
+7,Abida Parveen,Female,Khan Gul,Village & Post Office Sabir Abad Tehsil & district Karak,KPK (Matric),2014
 8,Faiqa,Female,Muhammad Shakir Husain,Mohallah Haji Ahmad Khan House No 207 near Rasheed Hotle Bazar Bannu city,KPK (Matric),2014
 9,Tayyaba Nayab,Female,Abdul Qayum,House No 4 B civil quarters Kohat road peshawar,KPK (Matric),2014
 10,Kainat,Female,Fareedullah Khan,House No 25 B civil quarters kohat road peshawar,KPK (Matric),2014
@@ -646,8 +646,8 @@ S. No.,Name,Gender,Father Name,Address,Region,Year
 15,Shaheen Saba,Female,Bakht Rahman,village Hisar Mohallah Goga Tehsil & District Dagar Buner,KPK (Matric),2014
 16,Aisha Bibi,Female,Jehan zeb,Village Hagi Abdurahman kali Tehsil Takhtbai District Mardan,KPK (Matric),2014
 17,Sahar Ishfaq,Female,Ishfaqullah Khan,Sarhad Survior Store Imperial Store Peshawar Cantt,KPK (Matric),2014
-18,Saiqa Jabeen,Female,Sahaar Gul,Village & Post Office    Budber  District Kohat,KPK (Matric),2014
-1,Fazli Rabbani,Male,Habib ur Rahman,Village & Post Office    Kalpani The Gagra District Buner,KPK (HSSC),2014
+18,Saiqa Jabeen,Female,Sahaar Gul,Village & Post Office Budber District Kohat,KPK (Matric),2014
+1,Fazli Rabbani,Male,Habib ur Rahman,Village & Post Office Kalpani The Gagra District Buner,KPK (HSSC),2014
 2,Muhammad Nadim,Male,Sultan Jan,village Mamo Khatki Tehsil & Distric Peshawar,KPK (HSSC),2014
 3,Umair Khan,Male,Hameedullah,Mohallah Nezd Eid Gah Tarnab Charsadda,KPK (HSSC),2014
 4,Wasi Ullah,Male,Iftikhar ud Din,Mattan Mughal Khel Tehsil Shabqadar District Charsadda,KPK (HSSC),2014
@@ -659,13 +659,13 @@ S. No.,Name,Gender,Father Name,Address,Region,Year
 10,Kafeel Ahmed,Male,Bismillah,Afridi Abad Urmar Bala Peshawr,KPK (HSSC),2014
 11,Ibrahim,Male,Shamsher Ali,Aza Khel Bala Tehsil & District Nowshera,KPK (HSSC),2014
 12,Asher John,Male,Arif Johnq,Cristian compund Howaid Gate House No 547 A Bannu,KPK (HSSC),2014
-13,Sabir Shah,Male,Muhammad Shah Khan,Shafa Payan Post Office  Shafali Bala Peshawar,KPK (HSSC),2014
+13,Sabir Shah,Male,Muhammad Shah Khan,Shafa Payan Post Office Shafali Bala Peshawar,KPK (HSSC),2014
 1,Ayesha Subhan,Female,Fazl e Subhan,Mohallah Abdul Ghani Nothia Qadim Peshawar,KPK (HSSC),2014
-2,Razia Bibi,Female,Mir Nawaz Khan,Post office    Shagram mastoj  district Chitral,KPK (HSSC),2014
+2,Razia Bibi,Female,Mir Nawaz Khan,Post office Shagram mastoj district Chitral,KPK (HSSC),2014
 3,Taskeen,Female,Bakht Roshan,Village Bagra Tesil & Dagar District Buner,KPK (HSSC),2014
 4,Nishwara Begum,Female,Abdul Qayyum,Village Bagra Tesil & Dagar District Buner,KPK (HSSC),2014
 5,Saima Zaman Masood,Female,Sher Zaman Masood,Flate No 79 C Gulshan Rahman Colony Kohat Road Peshawar,KPK (HSSC),2014
-6,Zainab Gulfam,Female,Gulfam,Village & Post Office     Bandi Daihundan Tehsil & District Abbottabad,KPK (HSSC),2014
+6,Zainab Gulfam,Female,Gulfam,Village & Post Office Bandi Daihundan Tehsil & District Abbottabad,KPK (HSSC),2014
 7,Kainat Jehangir,Female,Muhammad Jehangir,Banda Dalzak Takiya Qabristan,KPK (HSSC),2014
 8,Laiba Hasan,Female,Muhammad Hasan,Hounse NO K 412 Kanj Qadim Nizd Fawara,KPK (HSSC),2014
 9,Samra Javed,Female,Muhammad Javed Khan,TC 792 Muhallah Qela Jogan Nawansher Abbotabad,KPK (HSSC),2014
@@ -717,17 +717,17 @@ S. No.,Name,Gender,Father Name,Address,Region,Year
 19,Nadia Yousaf,Female,Mohammad Yousaf,House No 302 Nothia Qadim Peshawar,KPK (Matric),2013
 20,Kainat Shahid Ahmad,Female,Shahid Ahmad,Mushtaq Abad Gali No 7 Nothia Peshawar Cantt,KPK (Matric),2013
 21,Hanif Ullah,Male,Sher Zaman Khan,Lal Qela District Dir Lower,KPK (Matric),2013
-22,Shahbaz Khan,Male,Niaz Ali,POST OFFICE    & Village Prang Mohallah Yasin Zai   Charsadda,KPK (Matric),2013
-23,Hikmatullah,Male,Nasir Khan,Village & Post Office     Wrana Meeta Khel Karak,KPK (Matric),2013
+22,Shahbaz Khan,Male,Niaz Ali,Post Office & Village Prang Mohallah Yasin Zai   Charsadda,KPK (Matric),2013
+23,Hikmatullah,Male,Nasir Khan,Village & Post Office Wrana Meeta Khel Karak,KPK (Matric),2013
 24,Asif Khan,Male,Irshad Ali,Sukkar Amba dher Do aba charsadda,KPK (Matric),2013
 25,Tariq Ahmed Khan,Male,Jalat Khan,Village Tagazai Mohallah Bato khel Lakki Marwat,KPK (Matric),2013
 26,Ataullah shah,Male,Jafar Ali Shah,Safaid Abad Pechgi road Peshawar,KPK (Matric),2013
-27,Osama Pervez,Male,Zaiton Bibi,Post office    Pando Thana Abbottabad,KPK (Matric),2013
+27,Osama Pervez,Male,Zaiton Bibi,Post office Pando Thana Abbottabad,KPK (Matric),2013
 28,Khan Sher,Female,Jehan zeb,Village Mani Khela Sardheri,KPK (Matric),2013
 29,Saifullah,Female,Imdad Ali,Village Mani Khela Sardheri,KPK (Matric),2013
 30,Mohammad Waqas Khan,Male,Mohammad Nawaz Khan,Village Matora Lakki Marwat,KPK (Matric),2013
-31,Mohammad Faiz,Male,Sharbat Ali,Village & Post Office    Leloni Alpori Shangla,KPK (Matric),2013
-32,Adil Ali,Male,Liaqat Ali,Village Mubarak Post Office  Kotyala Abbottabad,KPK (Matric),2013
+31,Mohammad Faiz,Male,Sharbat Ali,Village & Post Office Leloni Alpori Shangla,KPK (Matric),2013
+32,Adil Ali,Male,Liaqat Ali,Village Mubarak Post Office Kotyala Abbottabad,KPK (Matric),2013
 33,Anas,Male,Usman Ghani,Yar Hussain Swabi,KPK (Matric),2013
 34,Luqman Syed,Male,Ghani Muhammad,Yar Hussain Swabi,KPK (Matric),2013
 35,Adnan Khan,Male,Nasir Khan,Wahid Ghari Charsadda road Peshawar,KPK (Matric),2013
@@ -737,43 +737,43 @@ S. No.,Name,Gender,Father Name,Address,Region,Year
 39,Mohammad Raza,Male,Gul Payoo Khan,Achini Chowk Ring Road,KPK (Matric),2013
 40,Muhammad Ramzan,Female,Mohabbat Shah,Mohallah Saafar Khel Prang Charsadda,KPK (Matric),2013
 1,Irfanullah,Male,Sahib Shah,Village Tibbi Murad District Lakki Marwat,KPK (Matric),2012
-2,Faisal Bacha,Male,Ameer Bacha,Village & Post Office      Office  BewarTeh District Dir Upper,KPK (Matric),2012
+2,Faisal Bacha,Male,Ameer Bacha,Village & Post Office BewarTeh District Dir Upper,KPK (Matric),2012
 3,Mehran Khan,Male,Jehan Karim,Koz Killi Alpori District Shangla,KPK (Matric),2012
 4,Muhammad Adnan,Male,Ghani ur Rahman,Kotka Abdul Jabar Behram Khel Lakki Marwat,KPK (Matric),2012
-5,Hameedullah Shah,Male,Iqbal Shah,VILLAGE & Post Office      OFFICE Aba Khel District Lakki Marwat,KPK (Matric),2012
-6,Laiq Shah,Male,Zahir Shah,VILLAGE & Post Office      OFFICE  Lelone Alpori Shangla,KPK (Matric),2012
+5,Hameedullah Shah,Male,Iqbal Shah,VILLAGE & Post Office Aba Khel District Lakki Marwat,KPK (Matric),2012
+6,Laiq Shah,Male,Zahir Shah,VILLAGE & Post Office Lelone Alpori Shangla,KPK (Matric),2012
 7,Sebghatullah,Male,Muhammad Meer Khan,V Langar Khel Paka Muhallah Shabir Khel Lakki Marwat,KPK (Matric),2012
 8,Shakirullah,Male,Mesal Khan,V Hayat Khel Post Office Shehbaz Khel  Lakki Marwat,KPK (Matric),2012
 9,Saeed Nawaz,Male,Muhammad Nawaz,Village Yankoti Post Office Afzal Abad  Mansehra,KPK (HSSC),2012
-10,Waqas Ahmed,Male,Bashir Ahmed,Post office    Mula Zai  Tank,KPK (Matric),2012
-11,Asif Khan,Male,Ameer Aman Ullah ,Mohallah Ismail Khel Village & Post Office    Abakhel   Lakki Marwat,KPK (Matric),2012
-12,Farhad Khan,Male,Ziyad Khan,Village & Post Office    Chota Lahore District Sawabi,KPK (Matric),2012
+10,Waqas Ahmed,Male,Bashir Ahmed,Post office Mula Zai  Tank,KPK (Matric),2012
+11,Asif Khan,Male,Ameer Aman Ullah ,Mohallah Ismail Khel Village & Post Office Abakhel Lakki Marwat,KPK (Matric),2012
+12,Farhad Khan,Male,Ziyad Khan,Village & Post Office Chota Lahore District Sawabi,KPK (Matric),2012
 13,Usman Ali,Male,Fazal Ahmed,Village Meer Gaam (Upper) Post Office Zeemdara District Dir (Lower),KPK (Matric),2012
-14,M Idrees,Male,Muhammad Asghar,Village & Post Office    Ghorewala Kotka Meerzaman District Bannu,KPK (Matric),2012
+14,M Idrees,Male,Muhammad Asghar,Village & Post Office Ghorewala Kotka Meerzaman District Bannu,KPK (Matric),2012
 15,Raham Bacha,Male,Aqleyun,Sheshen Leloni Alpori  Shangla,KPK (Matric),2012
-16,Mohsin Ali,Male,Muhammad Ali,Village & Post Office    Atar sheesha  Mansehra,KPK (Matric),2012
-17,Liaqat Shah,Male,Nazar Band,Village & Post Office    Leloni Alpori Shangla,KPK (Matric),2012
+16,Mohsin Ali,Male,Muhammad Ali,Village & Post Office Atar sheesha  Mansehra,KPK (Matric),2012
+17,Liaqat Shah,Male,Nazar Band,Village & Post Office Leloni Alpori Shangla,KPK (Matric),2012
 18,Latifullah,Male,Sulaiman Shah (shaheed),Mohallah Ismail Khel Village & Post Office   Abakhel   Lakki Marwat,KPK (Matric),2012
 19,Fazl e Raziq,Male,Abdul Majeed,Patwar Bala Warsak Road Post Office  Mathra Peshawar,KPK (HSSC),2012
 20,Zeeshan Ali,Male,Amreen Khan,Mohallah Bostan Khel Engro Dheri Mingora Swat,KPK (HSSC),2012
-21,Sayyad Muzamil Shah,Male,Sayyad Anwar Ali Shah,Village & Post Office   Karora Tehsil alpori  Shangla,KPK (HSSC),2012
+21,Sayyad Muzamil Shah,Male,Sayyad Anwar Ali Shah,Village & Post Office Karora Tehsil alpori  Shangla,KPK (HSSC),2012
 22,Asad Khan,Male,Muhammad Jamal,V Banda Mula Khan Tehsil Pabi  Nowshera,KPK (HSSC),2012
 23,Mansoorullah,Male,Farhad Khan,Kaga wala Kohat Road Rahman Abad Peshawar,KPK (HSSC),2012
 24,Imran Abbas,Male,Farhat Abbas,Khazana Payan Charsadda Road  Peshawar,KPK (HSSC),2012
 25,Hikmatullah,Male,Shaista Khan,Village Jandol Khel Post Office Kot Kashmir  Lakki Marwat,KPK (HSSC),2012
 26,Naveed Gul,Male,Chenar Gul,Mohalla Kokar Khel V Kahi District Nowshera,KPK (HSSC),2012
-27,Sajidullah,Male,Habibullah,POST OFFICE     Pakha Ghulam Bhudo Samar Bagh Peshawar,KPK (HSSC),2012
-28,Nouman Khan,Male,Wasal Khan,Ghalji kandar Khel Post Office  Methra Warsak Road Peshawar,KPK (HSSC),2012
+27,Sajidullah,Male,Habibullah,Post Office Pakha Ghulam Bhudo Samar Bagh Peshawar,KPK (HSSC),2012
+28,Nouman Khan,Male,Wasal Khan,Ghalji kandar Khel Post Office Methra Warsak Road Peshawar,KPK (HSSC),2012
 29,Sayyad Nauman Shan,Male,Sayyad Zahoor Shah,Darab Shah Gram Shagai Post Office   Madyan  Swat,KPK (HSSC),2012
-30,Umer Khan,Male,Javed Akhtar,Mohalla Saafar Khel Village Prang  Charsadda,KPK (HSSC),2012
-31,Hamad Ahmed,Male,Zafar Iqbal,Mohalla Ghazi ghari Village Sarband  Peshawar,KPK (HSSC),2012
-32,M Bashir khan,Male,Atlas Khan,Village Bachkan Ahmed Zai Post Office  Tejori  Lakki Marwat,KPK (HSSC),2012
-33,Khan Ullah,Male,Aman Ullah ,Tekadarano Killi Post Office   Zeyam Tehsil Tangi  Charsadda,KPK (HSSC),2012
-34,Arifullah khan,Male,Mumtaz Khan,POST OFFICE     Sarai Norang village Nar Gul Hasan Shah Lakki Marwat,KPK (HSSC),2012
-35,Jamshed Khan,Male,Gul Hawas,POST OFFICE     & Village Mandra Khel Mohallah Dad Khel Tehsil &  Lakki Marwat,KPK (HSSC),2012
+30,Umer Khan,Male,Javed Akhtar,Mohalla Saafar Khel Village Prang Charsadda,KPK (HSSC),2012
+31,Hamad Ahmed,Male,Zafar Iqbal,Mohalla Ghazi ghari Village Sarband Peshawar,KPK (HSSC),2012
+32,M Bashir khan,Male,Atlas Khan,Village Bachkan Ahmed Zai Post Office Tejori Lakki Marwat,KPK (HSSC),2012
+33,Khan Ullah,Male,Aman Ullah ,Tekadarano Killi Post Office Zeyam Tehsil Tangi  Charsadda,KPK (HSSC),2012
+34,Arifullah khan,Male,Mumtaz Khan,Post Office Sarai Norang village Nar Gul Hasan Shah Lakki Marwat,KPK (HSSC),2012
+35,Jamshed Khan,Male,Gul Hawas,Post Office & Village Mandra Khel Mohallah Dad Khel Tehsil &  Lakki Marwat,KPK (HSSC),2012
 1,Sumbal Murad,Female,Murad Ali,Mohallah Bach Korona Kalyas  Charsadda,KPK (Matric),2012
 2,Ayesha Subhan,Female,Fazl e Subhan,Mohallah Abdul Ghani Nothia Qadim Peshawar,KPK (Matric),2012
-3,Zeba,Female,Mukhtiar,POST OFFICE     & Village Prang Mohallah Saafar Khel   Charsadda,KPK (Matric),2012
+3,Zeba,Female,Mukhtiar,Post Office & Village Prang Mohallah Saafar Khel Charsadda,KPK (Matric),2012
 4,Uzma Saeed,Female,Mohammad Saeed,Mohallah Meena Khel  Lakki Marwat,KPK (Matric),2012
 5,Zeba,Female,Mohammad Naseem,Chamba Gali Mushtarka Kaloni Nothia Jadeed Peshawar Cantt,KPK (Matric),2012
 6,Lubna,Female,Zaman Khan,House No 55 Pehlawan Nothia Jadid Peshawar Cantt,KPK (Matric),2012
@@ -786,9 +786,9 @@ S. No.,Name,Gender,Father Name,Address,Region,Year
 13,Ayesha Rauf,Female,Saad Rauf,House No 29A A Civil Quarters Kohat Road Peshawar,KPK (Matric),2012
 14,Saba,Female,Mohammad Ayaz Khan,Hayat Hasheeba colony near Majid Imam Ghazali Kohat,KPK (Matric),2012
 15,Bakhtawar Khurshid,Female,Rehan Khurshid,Zeshan House Gulshan Colony Ezat Khan Chowk Gulbarg No 3 Peshawar,KPK (HSSC),2012
-16,Sidrat ul Muntaha,Female,Hidayatullah Khan,POST OFFICE     & Village Ghoriwala Kotaka Meerzaman Tehsil & District bannu,KPK (HSSC),2012
+16,Sidrat ul Muntaha,Female,Hidayatullah Khan,POST OFFICE & Village Ghoriwala Kotaka Meerzaman Tehsil & District bannu,KPK (HSSC),2012
 17,Maryam,Female,Azam Khan,Mohallah Pakha Ghulam Peshawar,KPK (HSSC),2012
-18,Ujala Durani,Female,Sabir Durrani,Pendi Road Street No 14  College Town Kohat,KPK (HSSC),2012
+18,Ujala Durani,Female,Sabir Durrani,Pendi Road Street No 14 College Town Kohat,KPK (HSSC),2012
 19,Maryam Niaz,Female,Niaz Mohammad,House No 359 Mohallah Noorani Masjid Nothia Qadim Peshawar Cantt,KPK (HSSC),2012
 20,Kainat Tariq,Female,M Tariq,Ghari Musa Khan Nothia Qadim Peshawar House No 881,KPK (HSSC),2012
 21,Hamdia Sana,Female,M Yousaf Baloch,Andron Imaniya Gate House No 2114 Mohallah kamyano Wala DI Khan,KPK (HSSC),2012
@@ -799,6 +799,7 @@ S. No.,Name,Gender,Father Name,Address,Region,Year
 26,Hanifa Bibi,Female,Meer Baz Khan,Mato Ghazni Khel Sarai Norang Lakki Marwat,KPK (HSSC),2012
 27,Mehak Tauqeer,Female,Zahida Perveen,House No k933 34 1859 60,KPK (HSSC),2012
 28,Ayesha Bibi,Female,Altaf Hussain,House No 3105 Kabali Gte Mohallah Jangi Peshawar,KPK (HSSC),2012
+
 
 
 
