@@ -110,7 +110,7 @@
       <th>Name</th>
       <th>Gender</th>
       <th>Father Name</th>
-      <th>Domicile</th>
+      <th>Address</th>
       <th>Region</th>
       <th>Year</th>
     </tr>
@@ -132,7 +132,7 @@ fetch('data2012-2020.csv')
         name,
         gender,
         fatherName,
-        domicile,
+        address,
         region,
         year
       ] = lines[i].split(',').map(v => v.trim());
@@ -142,7 +142,7 @@ fetch('data2012-2020.csv')
         name,
         gender,
         fatherName,
-        domicile,
+        address,
         region,
         year
       });
@@ -195,7 +195,7 @@ function showRecord(item) {
       <td>${item.name}</td>
       <td>${item.gender}</td>
       <td>${item.fatherName}</td>
-      <td>${item.domicile}</td>
+      <td>${item.address}</td>
       <td>${item.region}</td>
       <td>${item.year}</td>
     </tr>
