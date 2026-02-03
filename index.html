@@ -31,7 +31,6 @@
     letter-spacing:.4px;
   }
 
-  /* Neumorphic Input */
   input{
     width:50%;
     padding:12px 14px;
@@ -44,17 +43,8 @@
     box-shadow:
       inset 4px 4px 8px var(--dark),
       inset -4px -4px 8px var(--light);
-    transition:all .25s ease;
   }
 
-  input:focus{
-    box-shadow:
-      inset 2px 2px 4px var(--dark),
-      inset -2px -2px 4px var(--light),
-      0 0 0 2px rgba(74,91,220,.15);
-  }
-
-  /* Neumorphic Table */
   table{
     width:100%;
     border-collapse:separate;
@@ -68,56 +58,36 @@
       -8px -8px 18px var(--light);
   }
 
-  thead tr{
-    background:var(--bg);
-    box-shadow:
-      inset 0 -2px 0 var(--dark);
+  th, td{
+    padding:9px 6px;
+    text-align:center;
   }
 
   th{
-    padding:10px 6px;
-    text-align:center;
     font-weight:600;
     color:var(--primary);
-  }
-
-  td{
-    padding:9px 6px;
-    text-align:center;
-    background:var(--bg);
-  }
-
-  tbody tr{
-    transition:all .2s ease;
   }
 
   tbody tr:hover td{
     background:#eef1f8;
   }
 
-  tbody tr:not(:last-child) td{
-    box-shadow:inset 0 -1px 0 var(--dark);
-  }
-
-  /* Neumorphic Suggestions */
   #suggestions{
     position:absolute;
     width:50%;
     margin-left:25%;
     background:var(--bg);
     border-radius:14px;
-    z-index:9999;
     display:none;
+    z-index:9999;
     box-shadow:
       8px 8px 18px var(--dark),
       -8px -8px 18px var(--light);
-    overflow:hidden;
   }
 
   #suggestions div{
     padding:9px 12px;
     cursor:pointer;
-    transition:all .2s ease;
   }
 
   #suggestions div:hover{
@@ -128,7 +98,7 @@
 
 <body oncontextmenu="return false">
 
-<h2>PEEF Recommended Students List for the year 2012-2020</h2>
+<h2>PEEF Recommended Students List for the year 2012–2020</h2>
 
 <input type="text" id="searchInput" placeholder="Type student name or father name here...">
 <div id="suggestions"></div>
@@ -155,9 +125,27 @@ fetch('data2012-2020.csv')
   .then(response => response.text())
   .then(text => {
     const lines = text.trim().split('\n');
+
     for (let i = 1; i < lines.length; i++) {
-      const [serial, name, gender, fatherName, domicile, region] = lines[i].split(',');
-      data.push({ serial, name, gender, fatherName, domicile, region, year: '2021' });
+      const [
+        serial,
+        name,
+        gender,
+        fatherName,
+        domicile,
+        region,
+        year
+      ] = lines[i].split(',').map(v => v.trim());
+
+      data.push({
+        serial,
+        name,
+        gender,
+        fatherName,
+        domicile,
+        region,
+        year
+      });
     }
   });
 
@@ -177,11 +165,11 @@ searchInput.addEventListener('input', function () {
   }
 
   const matches = data.filter(item =>
-    (item.name && item.name.toLowerCase().includes(query)) ||
-    (item.fatherName && item.fatherName.toLowerCase().includes(query))
+    item.name.toLowerCase().includes(query) ||
+    item.fatherName.toLowerCase().includes(query)
   );
 
-  if (matches.length === 0) {
+  if (!matches.length) {
     suggestions.style.display = 'none';
     table.style.display = 'none';
     return;
@@ -190,7 +178,7 @@ searchInput.addEventListener('input', function () {
   matches.slice(0, 8).forEach(item => {
     const div = document.createElement('div');
     div.textContent = `${item.name} (Father: ${item.fatherName})`;
-    div.addEventListener('click', () => showRecord(item));
+    div.onclick = () => showRecord(item);
     suggestions.appendChild(div);
   });
 
@@ -212,15 +200,10 @@ function showRecord(item) {
       <td>${item.year}</td>
     </tr>
   `;
+
   table.style.display = 'table';
 }
 
-document.addEventListener('keydown', function (e) {
-  if (e.key === 'PrintScreen') {
-    alert('Screenshots are disabled on this page.');
-    e.preventDefault();
-  }
-});
 document.addEventListener('copy', e => e.preventDefault());
 document.addEventListener('selectstart', e => e.preventDefault());
 </script>
